@@ -1,4 +1,4 @@
-# Planificaciones al Día
+# Planificaciones MINERD al Día
 
 Landing page estática para ofrecer un servicio independiente de apoyo docente con planificaciones diarias, secuencias didácticas, rúbricas, instrumentos de evaluación y actividades de recuperación pedagógica.
 

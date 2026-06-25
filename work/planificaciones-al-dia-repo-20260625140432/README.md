@@ -68,4 +68,4 @@ No uses logos oficiales del MINERD ni afirmes que el servicio es oficial sin aut
 
 Texto legal incluido en el sitio:
 
-> Servicio independiente de apoyo docente. No representa ni sustituye documentos oficiales del Ministerio de Educación. Las planificaciones deben ser revisadas y contextualizadas por cada docente.
+> Servicio independiente de apoyo docente. No representa ni sustituye documentos oficiales del ministerio. Las planificaciones deben ser revisadas y contextualizadas por cada docente.
