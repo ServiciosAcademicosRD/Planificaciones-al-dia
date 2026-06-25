@@ -10,6 +10,7 @@ El sitio está construido con HTML, CSS y JavaScript puro, por lo que puede publ
 - `styles.css`: estilos, diseño responsive y animaciones ligeras.
 - `script.js`: menú móvil, enlaces de contacto, validación del formulario y botón de WhatsApp.
 - `assets/hero-planificacion-docente.png`: imagen principal del hero.
+- `assets/ejemplos/`: documentos PDF de ejemplo enlazados desde la sección de muestra.
 
 ## Cómo editar los datos de contacto
 
@@ -42,6 +43,7 @@ Usa el número de WhatsApp en formato internacional, sin espacios, signos ni gui
 - Para ajustar el mensaje de WhatsApp, correo o comportamiento del formulario, modifica `script.js`.
 - Para agregar o quitar servicios, duplica o elimina tarjetas dentro de la sección `#servicios`.
 - Para agregar o quitar planes, edita las tarjetas dentro de la sección `#planes`.
+- Para cambiar los PDF de ejemplo, reemplaza los archivos dentro de `assets/ejemplos/` y actualiza los enlaces en la sección `#ejemplo`.
 
 ## Nota importante
 

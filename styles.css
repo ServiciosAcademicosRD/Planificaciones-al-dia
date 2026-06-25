@@ -596,6 +596,41 @@ h3 {
   font-size: clamp(1.45rem, 3vw, 2rem);
 }
 
+.example-downloads {
+  display: grid;
+  gap: 10px;
+  margin: 22px 0;
+}
+
+.download-link {
+  display: grid;
+  gap: 2px;
+  padding: 14px 16px;
+  color: var(--blue-900);
+  background: var(--blue-100);
+  border: 1px solid rgba(18, 68, 119, 0.16);
+  border-left: 5px solid var(--green-600);
+  border-radius: var(--radius);
+  transition: transform 180ms ease, box-shadow 180ms ease;
+}
+
+.download-link:hover,
+.download-link:focus-visible {
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-soft);
+  outline: none;
+}
+
+.download-link strong {
+  font-size: 0.98rem;
+}
+
+.download-link span {
+  color: var(--gray-700);
+  font-size: 0.9rem;
+  font-weight: 700;
+}
+
 .testimonial-card {
   margin: 0;
   padding: 24px;
